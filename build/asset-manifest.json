@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/seller_app/static/css/main.e6c13ad2.css",
+    "main.js": "/seller_app/static/js/main.087658a9.js",
+    "static/js/787.fb8432d9.chunk.js": "/seller_app/static/js/787.fb8432d9.chunk.js",
+    "static/media/white-offroader-jeep-parking.jpg": "/seller_app/static/media/white-offroader-jeep-parking.ac8ed5940ca1144c4670.jpg",
+    "index.html": "/seller_app/index.html",
+    "main.e6c13ad2.css.map": "/seller_app/static/css/main.e6c13ad2.css.map",
+    "main.087658a9.js.map": "/seller_app/static/js/main.087658a9.js.map",
+    "787.fb8432d9.chunk.js.map": "/seller_app/static/js/787.fb8432d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.087658a9.js"
+  ]
+}
